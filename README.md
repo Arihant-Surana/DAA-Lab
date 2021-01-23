@@ -1,2 +1,1 @@
-# DAA-Lab
-DAA Lab Git repository 
+# Problem Solutions 
